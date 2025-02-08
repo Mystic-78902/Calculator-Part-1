@@ -1,19 +1,19 @@
 body {
-    font-family: 'Open Sans', sans-serif;
-    background-color: rgba(0, 0, 0, 0.634);
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(245, 241, 241, 0.634);
 }
 
 #container {
     width: 1000px;
     height: 550px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(i4.jpeg);
+    background-image: linear-gradient(rgba(247, 139, 129, 0.3), rgba(255, 255, 255, 0.3)), url(logo.png);
     margin: 20px auto;
 }
 
 #calculator {
     width: 320px;
     height: 520px;
-    background-color: hsl(205, 100%, 2%);
+    background-color: hsl(0, 85%, 62%);
     margin: 0 auto;
     top: 20px;
     position: relative;
@@ -36,7 +36,7 @@ body {
     border-width: 0;
     font-weight: bold;
     font-size: 15px;
-    background-color: orange;
+    background-color: rgb(238, 236, 231);
     cursor: pointer;
 }
 
