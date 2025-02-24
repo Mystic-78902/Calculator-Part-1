@@ -1,24 +1,24 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: rgba(226, 164, 240, 0.634);
+    background-color: rgba(188, 235, 250, 0.634);
 }
 
 #container {
     width: 1000px;
     height: 550px;
-    background-image: linear-gradient(rgba(224, 163, 252, 0.3), rgba(255, 255, 255, 0.3)), url(Ho.jpg);
+    background-image: linear-gradient(rgba(183, 239, 244, 0.3), rgba(255, 255, 255, 0.3)), url(Bruh.jpg);
     margin: 20px auto;
 }
 
 #calculator {
     width: 320px;
     height: 520px;
-    background-color: hsl(283, 99%, 69%);
+    background-color: hsl(210, 90%, 67%);
     margin: 0 auto;
     top: 20px;
     position: relative;
     border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(224, 118, 251, 0.2), 0 6px 20px 0 rgba(201, 121, 241, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(162, 203, 241, 0.2), 0 6px 20px 0 rgba(175, 232, 246, 0.19);
 }
 
 #keyboard {
@@ -36,7 +36,7 @@ body {
     border-width: 0;
     font-weight: bold;
     font-size: 15px;
-    background-color: rgb(223, 152, 245);
+    background-color: rgb(167, 207, 244);
     cursor: pointer;
 }
 
